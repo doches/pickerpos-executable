@@ -1,0 +1,11 @@
+{
+  "name": "quail",
+  "version": "1.0.0",
+  "description": "Quail",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "https://quailhq.com",
+  "homepage": "https://quailhq.com"
+}
